@@ -1,4 +1,4 @@
-unction getEvenAndOddNumbers() {
+function getEvenAndOddNumbers() {
 let arr_3 = [1, 2, 1, '1', 5, 6, null, 1, 9, 11, 0, 12, 22, 13, 0, 68, 100, 97, 0];
 let e = 0;
 let o = 0;
